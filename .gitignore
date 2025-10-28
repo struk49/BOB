@@ -1,0 +1,35 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Environment Variables
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Gmail/Google Credentials
+credentials.json
+token.pkl
+
+# Data Files
+email_profiles.json
+email_analysis.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
